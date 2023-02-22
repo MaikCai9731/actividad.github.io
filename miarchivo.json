@@ -1,0 +1,41 @@
+{
+    "escuadron" : "Cracks del Futbol",
+    "ciudad" : "Bogota",
+    "creado" :2023,
+    "base" : "Super tower",
+    "active" : true,
+    "miembros" : [
+      {
+        "nombre" : "Cristiano Ronaldo",
+        "edad" : 38,
+        "identidad" : " El goat",
+        "informacion" : [
+          "Al Nassr",
+          "1.87",
+          "824 Goles"
+        ]
+        
+      },
+      {
+        "nombre" : "Lionel Messi",
+        "edad" : 35,
+        "identidad" : "La Pulga",
+        "informacion" : [
+          "Paris Saint Germain",
+          "1,69 m",
+          "797 Goles"
+        ]
+      },
+      {
+        "nombre" : "Karim Benzema",
+        "edad" : 35,
+        "identidad" : "El gato",
+        "informacion" : [
+          "Real Madrid",
+          "1,85 m",
+          "457"
+         
+        ]
+      }
+    ]
+  }
