@@ -5,7 +5,7 @@
     
     <title>Cracks Mundial</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="style.css" rel="stylesheet">
+    <link href="../ejercicio/style.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -33,7 +33,7 @@
 
     async function populate() {
 
-      const requestURL = 'miarchivo.json';
+      const requestURL = '../ejercicio/miarchivo.json';
       const request = new Request(requestURL);
 
       const response = await fetch(request);
