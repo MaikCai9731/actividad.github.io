@@ -63,6 +63,17 @@ html {
    
   }
 
+@media screen and (max-width:800px){
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-image: url(fondo.jpg);
+   
+  }
+
+}
+
+
  
   
   
